@@ -1,0 +1,121 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="AspinIdle" Modified="2025-08-15 13:46:57" ID="1">
+ <Element Name="Rough" Folder="Rough" ID="1">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Name="3" Version="1" Key=""/>
+  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="5" Version="1" Key=""/>
+  <Drawing Name="6" Version="1" Key=""/>
+  <Drawing Name="7" Version="1" Key=""/>
+  <Drawing Name="8" Version="1" Key=""/>
+  <Drawing Name="9" Version="1" Key=""/>
+  <Drawing Name="10" Version="1" Key=""/>
+  <Drawing Name="11" Version="1" Key=""/>
+  <Drawing Name="12" Version="1" Key=""/>
+  <Drawing Name="13" Version="1" Key=""/>
+  <Drawing Name="14" Version="1" Key=""/>
+  <Drawing Name="15" Version="1" Key=""/>
+  <Drawing Name="16" Version="1" Key=""/>
+  <Drawing Name="17" Version="1" Key=""/>
+  <Drawing Name="18" Version="1" Key=""/>
+  <Drawing Name="19" Version="1" Key=""/>
+  <Drawing Name="20" Version="1" Key=""/>
+  <Drawing Name="21" Version="1" Key=""/>
+  <Drawing Name="22" Version="1" Key=""/>
+  <Drawing Name="23" Version="1" Key=""/>
+  <Drawing Name="24" Version="1" Key=""/>
+  <Drawing Name="25" Version="1" Key=""/>
+  <Drawing Name="26" Version="1" Key=""/>
+  <Drawing Name="27" Version="1" Key=""/>
+  <Drawing Name="28" Version="1" Key=""/>
+  <Drawing Name="29" Version="1" Key=""/>
+  <Drawing Name="30" Version="1" Key=""/>
+  <Drawing Name="31" Version="1" Key=""/>
+  <Drawing Name="32" Version="1" Key=""/>
+  <Drawing Name="33" Version="1" Key=""/>
+  <Drawing Name="34" Version="1" Key=""/>
+  <Drawing Name="35" Version="1" Key=""/>
+ </Element>
+ <Element Name="AspinTurn" Folder="AspinTurn" ID="4">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="AspinDos" Folder="AspinDos" ID="5">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="AspinPoses" Folder="AspinPoses" ID="6">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="Cleanup" Folder="Cleanup" ID="14">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Name="3" Version="1" Key=""/>
+  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="5" Version="1" Key=""/>
+  <Drawing Name="6" Version="1" Key=""/>
+  <Drawing Name="7" Version="1" Key=""/>
+  <Drawing Name="8" Version="1" Key=""/>
+  <Drawing Name="9" Version="1" Key=""/>
+  <Drawing Name="10" Version="1" Key=""/>
+  <Drawing Name="11" Version="1" Key=""/>
+  <Drawing Name="12" Version="1" Key=""/>
+ </Element>
+ <Element Name="CUBody" Folder="CUBody.17" ID="17">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="5" Version="1" Key=""/>
+  <Drawing Name="6" Version="1" Key=""/>
+  <Drawing Name="7" Version="1" Key=""/>
+  <Drawing Name="8" Version="1" Key=""/>
+  <Drawing Name="9" Version="1" Key=""/>
+  <Drawing Name="14" Version="1" Key=""/>
+  <Drawing Name="10" Version="1" Key=""/>
+  <Drawing Name="13" Version="1" Key=""/>
+  <Drawing Name="12" Version="1" Key=""/>
+  <Drawing Name="11" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Name="3" Version="1" Key=""/>
+ </Element>
+ <Element Name="CUHead" Folder="CUHead" ID="18">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Name="3" Version="1" Key=""/>
+  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="5" Version="1" Key=""/>
+  <Drawing Name="6" Version="1" Key=""/>
+  <Drawing Name="7" Version="1" Key=""/>
+  <Drawing Name="8" Version="1" Key=""/>
+  <Drawing Name="9" Version="1" Key=""/>
+  <Drawing Name="10" Version="1" Key=""/>
+  <Drawing Name="11" Version="1" Key=""/>
+  <Drawing Name="12" Version="1" Key=""/>
+ </Element>
+ <Element Name="pattern" Folder="pattern" ID="20">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="colorref" Folder="colorref" ID="21">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="color" Folder="color.22" ID="22">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+ <Element Name="PatternCU" Folder="PatternCU" ID="23">
+  <Drawing Name="1" Version="1" Key=""/>
+  <Drawing Name="4" Version="1" Key=""/>
+  <Drawing Name="5" Version="1" Key=""/>
+  <Drawing Name="6" Version="1" Key=""/>
+  <Drawing Name="7" Version="1" Key=""/>
+  <Drawing Name="8" Version="1" Key=""/>
+  <Drawing Name="9" Version="1" Key=""/>
+  <Drawing Name="14" Version="1" Key=""/>
+  <Drawing Name="10" Version="1" Key=""/>
+  <Drawing Name="13" Version="1" Key=""/>
+  <Drawing Name="12" Version="1" Key=""/>
+  <Drawing Name="11" Version="1" Key=""/>
+  <Drawing Name="2" Version="1" Key=""/>
+  <Drawing Name="3" Version="1" Key=""/>
+ </Element>
+ <Element Name="ForAsh" Folder="ForAsh" ID="24">
+  <Drawing Name="1" Version="1" Key=""/>
+ </Element>
+</SceneVersion>
