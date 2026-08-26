@@ -4,10 +4,6 @@
  <element id="4" elementName="AspinTurn" elementFolder="AspinTurn" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="5" elementName="AspinDos" elementFolder="AspinDos" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="6" elementName="AspinPoses" elementFolder="AspinPoses" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="14" elementName="Cleanup" elementFolder="Cleanup" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="20" elementName="pattern" elementFolder="pattern" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="21" elementName="colorref" elementFolder="colorref" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="22" elementName="color" elementFolder="color.22" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="23" elementName="PatternCU" elementFolder="PatternCU" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="24" elementName="TIMELOG" elementFolder="TIMELOG" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
