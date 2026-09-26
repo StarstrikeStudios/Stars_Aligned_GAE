@@ -1,0 +1,188 @@
+:: StoryTitle
+Stars Aligned Twine
+
+
+:: StoryData
+{
+  "ifid": "35B1D2F9-722A-4FB8-B1AE-E470118CBA5F",
+  "format": "SugarCube",
+  "format-version": "2.37.3",
+  "start": "Dinner Argument (where route variances start)",
+  "zoom": 1
+}
+
+
+:: Act 2 Start {"position":"2225,300","size":"100,100"}
+[[Initial Body Investigation - Bernadette]]
+[[Initial Body Investigation - Stowe]]
+[[Initial Body Investigation - Marshal]]
+
+
+:: Act 3 Start {"position":"4250,300","size":"100,100"}
+
+
+
+:: Aspin Nap/Dream Sequence {"position":"1450,300","size":"100,100"}
+[[Wizard Apprentice Recruitment]]
+
+
+:: Bernadette/Masha Conversation {"position":"2700,300","size":"100,100"}
+
+
+
+:: Bernadette/Masha Rapport 1 {"position":"1875,150","size":"100,100"}
+[[OOPIES SOMEONE'S DEAD]]
+
+
+:: Bernadette/Masha Rapport 2 {"position":"2525,150","size":"100,100"}
+[[Stowe and the Wizard - Not Stowe Route]]
+
+
+:: Decisive - Poison Bottle {"position":"2975,1250","size":"100,100"}
+
+
+
+:: Detective Lockwood, Pal {"position":"3025,300","size":"100,100"}
+
+
+
+:: Dinner Argument (where route variances start) {"position":"975,300","size":"100,100"}
+
+
+
+:: Evidence {"position":"2650,1100","size":"100,100"}
+TO BE ADDED TO AS WE DETERMINE EVIDENCE PIECES IN THE GAME
+ALSO ALSO IT'S JUST HERE SO WE HAVE AN IDEA OF WHAT'S THERE
+
+ALSO I SORTED WHAT WE WILL PROBABLY USE INTO 3 CATEGORIES
+
+General: Evidence that will generally stay the same no matter who the killer is. There will be footprints in the garden, for example. Tiny details may change but the core evidence is the same
+
+Variable: evidence that changes depending on the killer but it's use-case is pretty similar. Bu7L-R will be damaged, but how they're damaged is different depending on the route. The Matriarch's wounds will be different, but we will still get an evidence piece about her wounds.
+
+Decisive: evidence that is only used during 1 killer's route. If we get it in other routes, it's next to useless/a red herring
+
+
+we miiiiight want a 4th category for evidence used in 2/3 routes but that's really getting into the minutia 
+
+
+:: General - Bootprints in the Garden {"position":"2300,1250","size":"100,100"}
+
+
+
+:: I'M NOT YOUR DAD (Masha stoppppppppppppppppp) {"position":"3400,300","size":"100,100"}
+
+
+
+:: Initial Body Investigation - Bernadette {"position":"2375,150","size":"100,100"}
+[[Bernadette/Masha Rapport 2]]
+
+
+:: Initial Body Investigation - Marshal {"position":"2375,450","size":"100,100"}
+[[Marshal Rapport 2]]
+
+
+:: Initial Body Investigation - Stowe {"position":"2375,300","size":"100,100"}
+[[Stowe Rapport 2]]
+
+
+:: Marshal Rapport 1 {"position":"1875,450","size":"100,100"}
+[[OOPIES SOMEONE'S DEAD]]
+
+
+:: Marshal Rapport 2 {"position":"2525,450","size":"100,100"}
+[[Stowe and the Wizard - Not Stowe Route]]
+
+
+:: Marshal/Xenon Conversation {"position":"2700,150","size":"100,100"}
+
+
+
+:: Masha/Stowe Conversation {"position":"3625,500","size":"100,100"}
+
+
+
+:: Masha/Xenon Conversation {"position":"3625,125","size":"100,100"}
+
+
+
+:: Matriarch Conversation {"position":"1150,300","size":"100,100"}
+
+
+
+:: OOPIES SOMEONE'S DEAD {"position":"2050,300","size":"100,100"}
+[[Act 2 Start]]
+
+
+:: Safe Zone Scene {"position":"1300,300","size":"100,100"}
+[[Aspin Nap/Dream Sequence]]
+
+
+:: Stowe Rapport 1 {"position":"1875,300","size":"100,100"}
+[[OOPIES SOMEONE'S DEAD]]
+
+
+:: Stowe Rapport 2 {"position":"2525,300","size":"100,100"}
+[[Stowe and the Wizard - Stowe Route]]
+
+
+:: Stowe and the Wizard - Not Stowe Route {"position":"2875,350","size":"100,100"}
+
+
+
+:: Stowe and the Wizard - Stowe Route {"position":"2875,200","size":"100,100"}
+
+
+
+:: Stowe/Tulip Conversation {"position":"2700,450","size":"100,100"}
+
+
+
+:: Stowe/Xenon Conversation {"position":"3625,300","size":"100,100"}
+
+
+
+:: Trap Tutorial/Puzzle {"position":"1725,300","size":"100,100"}
+[[Bernadette/Masha Rapport 1]]
+[[Stowe Rapport 1]]
+[[Marshal Rapport 1]]
+
+
+:: Vairable - State of Bu7L-R {"position":"2475,1250","size":"100,100"}
+
+
+
+:: Variable - Alibis of the Killers {"position":"2650,1250","size":"100,100"}
+
+
+
+:: Variable - Matriarch's Wounds {"position":"2800,1250","size":"100,100"}
+
+
+
+:: Wizard Apprentice Recruitment {"position":"1600,300","size":"100,100"}
+[[Trap Tutorial/Puzzle]]
+
+
+:: Xenon Check in Act 2 {"position":"3200,300","size":"100,100"}
+
+
+
+:: Xenon Check in end of act 2 {"position":"3875,300","size":"100,100"}
+
+
+
+:: \[Bernadette's Ending\] {"position":"4600,200","size":"100,100"}
+
+
+
+:: \[Marshal's Ending\] {"position":"4600,500","size":"100,100"}
+
+
+
+:: \[Stowe's Ending\] {"position":"4600,350","size":"100,100"}
+
+
+
+:: \[Wrong Culprit Ending\] {"position":"4600,50","size":"100,100"}
+
