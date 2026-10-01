@@ -12,37 +12,51 @@ Stars Aligned Twine
 }
 
 
+:: Accusation {"position":"5700,300","size":"100,100"}
+
+
+
 :: Act 2 Start {"position":"2225,300","size":"100,100"}
 [[Initial Body Investigation - Bernadette]]
 [[Initial Body Investigation - Stowe]]
 [[Initial Body Investigation - Marshal]]
 
 
-:: Act 3 Start {"position":"4250,300","size":"100,100"}
+:: Act 3 Start {"position":"4875,300","size":"100,100"}
 
 
 
-:: Aspin Nap/Dream Sequence {"position":"1450,300","size":"100,100"}
+:: Adia/Lucius {"position":"3075,700","size":"100,100"}
+Adia and the Wizard
+
+
+:: Aspin Nap/Dream Sequence {"position":"1425,300","size":"100,100"}
 [[Wizard Apprentice Recruitment]]
 
 
-:: Bernadette/Masha Conversation {"position":"2700,300","size":"100,100"}
+:: Bernadette/Masha Conversation {"position":"2750,300","size":"100,100"}
 
 
 
 :: Bernadette/Masha Rapport 1 {"position":"1875,150","size":"100,100"}
+Bernadette/Masha convo
 [[OOPIES SOMEONE'S DEAD]]
 
 
 :: Bernadette/Masha Rapport 2 {"position":"2525,150","size":"100,100"}
+Bernadette and the Kids
 [[Stowe and the Wizard - Not Stowe Route]]
+
+
+:: Bernadette/Masha Rapport 3 {"position":"5075,150","size":"100,100"}
+
 
 
 :: Decisive - Poison Bottle {"position":"2975,1250","size":"100,100"}
 
 
 
-:: Detective Lockwood, Pal {"position":"3025,300","size":"100,100"}
+:: Detective Lockwood, Pal {"position":"2900,300","size":"100,100"}
 
 
 
@@ -70,7 +84,7 @@ we miiiiight want a 4th category for evidence used in 2/3 routes but that's real
 
 
 
-:: I'M NOT YOUR DAD (Masha stoppppppppppppppppp) {"position":"3400,300","size":"100,100"}
+:: I'M NOT YOUR DAD (Masha stoppppppppppppppppp) {"position":"4075,300","size":"100,100"}
 
 
 
@@ -86,27 +100,45 @@ we miiiiight want a 4th category for evidence used in 2/3 routes but that's real
 [[Stowe Rapport 2]]
 
 
+:: Investigations 2 - Bernadette {"position":"3100,150","size":"100,100"}
+
+
+
+:: Investigations 2 - Marshal {"position":"3100,475","size":"100,100"}
+
+
+
+:: Investigations 2 - Stowe {"position":"3100,300","size":"100,100"}
+
+
+
 :: Marshal Rapport 1 {"position":"1875,450","size":"100,100"}
+Marshal/Xenon
 [[OOPIES SOMEONE'S DEAD]]
 
 
 :: Marshal Rapport 2 {"position":"2525,450","size":"100,100"}
+Marshal and a sibling?
 [[Stowe and the Wizard - Not Stowe Route]]
 
 
-:: Marshal/Xenon Conversation {"position":"2700,150","size":"100,100"}
+:: Marshal Rapport 3 {"position":"5075,450","size":"100,100"}
 
 
 
-:: Masha/Stowe Conversation {"position":"3625,500","size":"100,100"}
+:: Marshal/Xenon Conversation {"position":"2750,150","size":"100,100"}
 
 
 
-:: Masha/Xenon Conversation {"position":"3625,125","size":"100,100"}
+:: Masha/Stowe Conversation {"position":"4300,500","size":"100,100"}
 
 
 
-:: Matriarch Conversation {"position":"1150,300","size":"100,100"}
+:: Masha/Xenon Conversation {"position":"4300,300","size":"100,100"}
+
+
+
+:: Matriarch Conversation {"position":"1125,300","size":"100,100"}
 
 
 
@@ -114,31 +146,36 @@ we miiiiight want a 4th category for evidence used in 2/3 routes but that's real
 [[Act 2 Start]]
 
 
-:: Safe Zone Scene {"position":"1300,300","size":"100,100"}
+:: Safe Zone Scene {"position":"1275,300","size":"100,100"}
 [[Aspin Nap/Dream Sequence]]
 
 
 :: Stowe Rapport 1 {"position":"1875,300","size":"100,100"}
+Stowe Alone
 [[OOPIES SOMEONE'S DEAD]]
 
 
 :: Stowe Rapport 2 {"position":"2525,300","size":"100,100"}
-[[Stowe and the Wizard - Stowe Route]]
+Stowe and the Wizard
 
 
-:: Stowe and the Wizard - Not Stowe Route {"position":"2875,350","size":"100,100"}
-
-
-
-:: Stowe and the Wizard - Stowe Route {"position":"2875,200","size":"100,100"}
+:: Stowe Rapport 3 {"position":"5075,300","size":"100,100"}
 
 
 
-:: Stowe/Tulip Conversation {"position":"2700,450","size":"100,100"}
+:: Stowe and the Wizard - Not Stowe Route {"position":"2750,0","size":"100,100"}
 
 
 
-:: Stowe/Xenon Conversation {"position":"3625,300","size":"100,100"}
+:: Stowe/Tulip Conversation {"position":"2750,450","size":"100,100"}
+
+
+
+:: Stowe/Xenon Conversation {"position":"4300,125","size":"100,100"}
+
+
+
+:: The Matriarch is dead but the player doesn't know that yet {"position":"1650,175","size":"100,100"}
 
 
 
@@ -146,6 +183,10 @@ we miiiiight want a 4th category for evidence used in 2/3 routes but that's real
 [[Bernadette/Masha Rapport 1]]
 [[Stowe Rapport 1]]
 [[Marshal Rapport 1]]
+
+
+:: Tulip/Adia Rapport {"position":"3250,700","size":"100,100"}
+Tulip and Adia
 
 
 :: Vairable - State of Bu7L-R {"position":"2475,1250","size":"100,100"}
@@ -160,29 +201,34 @@ we miiiiight want a 4th category for evidence used in 2/3 routes but that's real
 
 
 
-:: Wizard Apprentice Recruitment {"position":"1600,300","size":"100,100"}
+:: Wizard Apprentice Recruitment {"position":"1575,300","size":"100,100"}
 [[Trap Tutorial/Puzzle]]
 
 
-:: Xenon Check in Act 2 {"position":"3200,300","size":"100,100"}
+:: Xenon Check in Act 2 {"position":"3350,300","size":"100,100"}
 
 
 
-:: Xenon Check in end of act 2 {"position":"3875,300","size":"100,100"}
+:: Xenon Check in end of act 2 {"position":"4550,300","size":"100,100"}
 
 
 
-:: \[Bernadette's Ending\] {"position":"4600,200","size":"100,100"}
+:: Xenon/Tulip Rapport {"position":"2900,700","size":"100,100"}
+Xenon and Tulip
 
 
 
-:: \[Marshal's Ending\] {"position":"4600,500","size":"100,100"}
+:: \[Bernadette's Ending\] {"position":"5925,200","size":"100,100"}
 
 
 
-:: \[Stowe's Ending\] {"position":"4600,350","size":"100,100"}
+:: \[Marshal's Ending\] {"position":"5925,500","size":"100,100"}
 
 
 
-:: \[Wrong Culprit Ending\] {"position":"4600,50","size":"100,100"}
+:: \[Stowe's Ending\] {"position":"5925,350","size":"100,100"}
+
+
+
+:: \[Wrong Culprit Ending\] {"position":"5925,50","size":"100,100"}
 
